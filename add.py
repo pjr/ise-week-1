@@ -7,4 +7,4 @@ def test_add():
     assert add(1, -1) == 0
 
 if __name__ == "__main__":
-    print(add(3, 2))
+    print(add(3, 12))
